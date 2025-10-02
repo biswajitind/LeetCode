@@ -10,19 +10,13 @@ class Solution(object):
             ']': '['
         }
         stack = []
-        for i in range(len(s)):
-            if s[i] in pmap.values():
-                stack.append(s[i])
-            else:
-                if stack:
-                    if pmap[s[i]] == stack[-1]:
-                        stack.pop()
-                    else:
-                        return(False)
-                    
+        for c in s:
+            if c in pmap:
+                if stack and stack[-1] == pmap[c]:
+                    stack.pop()
                 else:
                     return(False)
-        if stack:
-            return(False)
-        
-        return(True)
+            else:
+                stack.append(c)
+        return False if stack else True
+
