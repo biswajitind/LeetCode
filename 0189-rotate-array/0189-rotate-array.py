@@ -13,7 +13,7 @@ class Solution(object):
                 start += 1
                 end -= 1
 
-        k = k % l        
+        k = k % len(nums)
         reverse_list(nums, 0, len(nums) - 1)
         reverse_list(nums, 0, k - 1)
         reverse_list(nums, k, len(nums) - 1)
