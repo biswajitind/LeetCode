@@ -10,7 +10,6 @@ class Solution(object):
         idx = r
 
         while l <= r:
-            print(l, r)
             if abs(nums[l]) <= abs(nums[r]):
                 result[idx] = nums[r] ** 2
                 r -= 1
