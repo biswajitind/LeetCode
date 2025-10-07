@@ -2,14 +2,14 @@ from collections import Counter
 import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        #counter = Counter(nums)
-        #print(counter)
-        counter = {}
-        for n in nums:
-            if n in counter:
-                counter[n] += 1
-            else:
-                counter[n] = 1
+        counter = Counter(nums)
+        
+        # counter = {}
+        # for n in nums:
+        #     if n in counter:
+        #         counter[n] += 1
+        #     else:
+        #         counter[n] = 1
         heap = []
         for key, val in counter.items():
             if len(heap) < k:
