@@ -2,6 +2,9 @@ from collections import Counter
 import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+
+        # Using this Counter makes building the dictionary faster, as it uses 
+        # low level counting logic implemented in C
         counter = Counter(nums)
         
         # counter = {}
