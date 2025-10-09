@@ -6,12 +6,8 @@ class Solution:
         l = 1
         bad = r = n
         while l <= r:
-            
             m = (r + l) // 2
-            print(l, r, m)
-
             if isBadVersion(m):
-                print('    bad')
                 r = m - 1
                 bad = m
             else:
