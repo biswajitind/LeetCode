@@ -31,7 +31,6 @@ class Solution:
                         rooms[y] = rooms[x] * -1
                     else:
                         if rooms[x] == rooms[y]:
-                            print(folks, rooms, processed, x, y)
                             return(False)
                 for y in folks[x]:
                     res = _dfs(y)
@@ -43,8 +42,7 @@ class Solution:
             res = _dfs(i)
             if res == False:
                 return(False)
-
-        print(folks, rooms, processed)
+                
         return(True)
 
 
