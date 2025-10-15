@@ -6,10 +6,6 @@ class Solution:
 
         self.islands = {}
 
-        for i in range(m):
-            for j in range(n):
-                print(grid[i][j], '  ', end='')
-            print()
 
 
 
@@ -43,7 +39,4 @@ class Solution:
         tmp = set()
         for v in values:
             tmp.add(''.join(v))
-
-        print(self.islands)
-        print(tmp)
         return(len(list(tmp)))
