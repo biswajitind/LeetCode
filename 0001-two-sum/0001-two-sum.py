@@ -5,12 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        size = len(nums)
-        cache = {nums[0]: 0}
 
-        for i in range(1, size):
-            lookup = target - nums[i]
-            if lookup in cache:
-                return(i, cache[lookup])
-            else:
-                cache[nums[i]] = i       
+        # Brute Force
+        for i in range(len(nums) -1):
+            for j in range(i + 1, len(nums)):
+                if nums[i] + nums[j] == target:
+                    return(i, j)
+        
