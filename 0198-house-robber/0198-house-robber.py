@@ -1,17 +1,18 @@
-class Solution:        
-    def rob(self, nums: List[int]) -> int:
-        memo = {}
+class Solution:
 
-        def robHouse(i, tnums):
-            if i >= len(tnums):
+    def __init__(self):
+        self.memo = {}
+
+    def rob(self, nums: List[int]) -> int:
+
+        def helper(x):
+            if x >= len(nums):
                 return(0)
-            
-            if i in memo:
-                return memo[i]
-            
-            ans = tnums[i] + robHouse(i+2, tnums)
-            memo[i] = ans
-            return(ans)
-        
-        return(max(robHouse(0, nums), robHouse(1, nums)))
-        
+            if x in self.memo:
+                return(self.memo[x])
+            else:
+                res = max(helper(x+2) + nums[x], helper(x+1))
+                self.memo[x] = res
+            return(res) 
+
+        return(max(helper(0), helper(1)))
