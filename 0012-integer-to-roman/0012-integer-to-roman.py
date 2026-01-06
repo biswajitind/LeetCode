@@ -20,5 +20,7 @@ class Solution:
             symCount = num // val
             res += (sym * symCount)
             num = num % val
+            if not num:
+                return(res)
         return(res)
         
