@@ -1,22 +1,28 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        pmap = {
-            ')': '(',
-            '}': '{',
-            ']': '['
+class Solution:
+    def isValid(self, s: str) -> bool:
+        pMap = {
+            ')' : '(',
+            '}' : '{',
+            ']' : '[',
         }
+    
         stack = []
-        for c in s:
-            if c in pmap:
-                if stack and stack[-1] == pmap[c]:
-                    stack.pop()
+        #print(type(pMap), pMap)
+        for ch in s:
+            if ch in pMap:
+                if len(stack) > 0:
+                    #print('1 ', stack[-1])
+                    #print('2 ', pMap[ch])
+                    if stack[-1] == pMap[ch]:
+                        stack.pop()
+                    else:
+                        stack.append(ch)
                 else:
-                    return(False)
+                    stack.append(ch)
             else:
-                stack.append(c)
-        return False if stack else True
-
+                stack.append(ch)
+            #print(stack)
+        if len(stack) > 0:
+            return False
+        else:
+            return True
