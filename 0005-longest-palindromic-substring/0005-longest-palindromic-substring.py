@@ -1,36 +1,27 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        word = ''
+        result = s[0]
+        resultLen = 1
 
         for i in range(len(s)):
-            inc = 0
-            # checkig for odd Palindrome wjile i is the center
-            while i-inc >= 0 and i+inc < len(s):
-                if s[i-inc] == s[i+inc]:
-                    if len(s[i-inc:i+inc+1]) > len(word):
-                        word = s[i-inc:i+inc+1]
-                else:
-                    break
-                inc += 1
-
-            inc = 0
-            # Checkig for Even Palindrome while i is the center left
-            while i-inc >= 0 and i+1+inc < len(s):
-                if s[i-inc] == s[i+1+inc]:
-                    if len(s[i-inc:i+inc+2]) > len(word):
-                        word = s[i-inc:i+inc+2]
-                else:
-                    break
-                inc += 1
-
-
-                
-
+            # odd length
+            l, r = i -1, i+1 
+            while l >=0 and r < len(s) and s[l] == s[r]:
+                cLen = r - l + 1
+                if cLen > resultLen:
+                    result = s[l:r+1]
+                    resultLen = max(resultLen, cLen)
+                l -= 1
+                r += 1
             
-            
-        return(word)
+            # even length
+            l, r = i, i+1 
+            while l >=0 and r < len(s) and s[l] == s[r]:
+                cLen = r - l + 1
+                if cLen > resultLen:
+                    result = s[l:r+1]
+                    resultLen = max(resultLen, cLen)
+                l -= 1
+                r += 1
+        return(result)
 
-
-                
-
-            
