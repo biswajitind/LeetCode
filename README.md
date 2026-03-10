@@ -16,10 +16,12 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/biswajitind/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/biswajitind/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/biswajitind/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/biswajitind/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 ## Stack
@@ -68,4 +70,8 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/biswajitind/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/biswajitind/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
