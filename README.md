@@ -22,6 +22,7 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/biswajitind/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/biswajitind/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/biswajitind/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 ## Stack
@@ -31,6 +32,7 @@ My LeetCode submissions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/biswajitind/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0088-merge-sorted-array](https://github.com/biswajitind/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/biswajitind/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
@@ -42,6 +44,7 @@ My LeetCode submissions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/biswajitind/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biswajitind/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/biswajitind/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Math
