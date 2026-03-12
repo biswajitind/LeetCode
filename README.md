@@ -12,6 +12,7 @@ My LeetCode submissions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biswajitind/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/biswajitind/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0994-rotting-oranges](https://github.com/biswajitind/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/biswajitind/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -83,4 +84,12 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/biswajitind/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/biswajitind/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/biswajitind/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
