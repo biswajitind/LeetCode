@@ -34,6 +34,7 @@ My LeetCode submissions
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/biswajitind/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/biswajitind/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +107,16 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/biswajitind/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
