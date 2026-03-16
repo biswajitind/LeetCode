@@ -123,4 +123,5 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/biswajitind/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
+| [0182-duplicate-emails](https://github.com/biswajitind/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
