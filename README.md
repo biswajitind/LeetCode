@@ -18,6 +18,7 @@ My LeetCode submissions
 | [0994-rotting-oranges](https://github.com/biswajitind/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/biswajitind/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1470-shuffle-the-array](https://github.com/biswajitind/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/biswajitind/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [1929-concatenation-of-array](https://github.com/biswajitind/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
