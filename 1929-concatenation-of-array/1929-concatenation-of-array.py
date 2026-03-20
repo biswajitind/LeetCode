@@ -1,9 +1,14 @@
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
         size = len(nums)
-        ans = [None] * 2 * size
 
+        # Simple solution 1
+        # ans = [None] * 2 * size
+        # for i in range(size):
+        #     ans[i] = ans[i + size] = nums[i]        
+        # return(ans)
+
+        #reusing the input array to save space
         for i in range(size):
-            ans[i] = ans[i + size] = nums[i]
-        
-        return(ans)
+            nums.append(nums[i])
+        return(nums)
