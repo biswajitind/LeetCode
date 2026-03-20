@@ -14,6 +14,7 @@ My LeetCode submissions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biswajitind/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/biswajitind/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/biswajitind/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0994-rotting-oranges](https://github.com/biswajitind/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/biswajitind/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1470-shuffle-the-array](https://github.com/biswajitind/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -24,6 +25,7 @@ My LeetCode submissions
 | [0003-longest-substring-without-repeating-characters](https://github.com/biswajitind/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/biswajitind/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/biswajitind/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +129,8 @@ My LeetCode submissions
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/biswajitind/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/biswajitind/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/biswajitind/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
