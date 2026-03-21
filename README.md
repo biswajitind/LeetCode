@@ -8,6 +8,7 @@ My LeetCode submissions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/biswajitind/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/biswajitind/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0041-first-missing-positive](https://github.com/biswajitind/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/biswajitind/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/biswajitind/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/biswajitind/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -25,6 +26,7 @@ My LeetCode submissions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/biswajitind/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/biswajitind/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/biswajitind/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/biswajitind/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/biswajitind/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
