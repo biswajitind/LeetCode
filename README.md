@@ -48,6 +48,7 @@ My LeetCode submissions
 | [0242-valid-anagram](https://github.com/biswajitind/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/biswajitind/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0482-license-key-formatting](https://github.com/biswajitind/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
