@@ -13,6 +13,7 @@ My LeetCode submissions
 | [0051-n-queens](https://github.com/biswajitind/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/biswajitind/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/biswajitind/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/biswajitind/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/biswajitind/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biswajitind/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/biswajitind/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -45,6 +46,7 @@ My LeetCode submissions
 | [0005-longest-palindromic-substring](https://github.com/biswajitind/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/biswajitind/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/biswajitind/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0079-word-search](https://github.com/biswajitind/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0242-valid-anagram](https://github.com/biswajitind/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/biswajitind/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -130,6 +132,7 @@ My LeetCode submissions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/biswajitind/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/biswajitind/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0994-rotting-oranges](https://github.com/biswajitind/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -148,6 +151,7 @@ My LeetCode submissions
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/biswajitind/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/biswajitind/LeetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -169,6 +173,7 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/biswajitind/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0079-word-search](https://github.com/biswajitind/LeetCode/tree/main/0079-word-search/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
