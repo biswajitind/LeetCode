@@ -11,6 +11,11 @@ class Solution:
                     return(True)
             else:
                 spaceCount += 1
+                if count + ((spaceCount - 1) // 2) >= n:
+                    return(True)
+
+
+
             print(i, spaceCount, count, flowerbed[i])
 
         # remaing spaces till end.
