@@ -51,6 +51,7 @@ My LeetCode submissions
 | [0394-decode-string](https://github.com/biswajitind/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0482-license-key-formatting](https://github.com/biswajitind/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/biswajitind/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/biswajitind/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ My LeetCode submissions
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/biswajitind/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/biswajitind/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
