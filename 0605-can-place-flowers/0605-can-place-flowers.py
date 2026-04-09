@@ -7,7 +7,7 @@ class Solution:
             if flowerbed[i]:
                 count += (spaceCount - 1) // 2
                 spaceCount = 0
-                if count > n:
+                if count >= n:
                     return(True)
             else:
                 spaceCount += 1
