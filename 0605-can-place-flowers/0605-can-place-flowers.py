@@ -7,6 +7,8 @@ class Solution:
             if flowerbed[i]:
                 count += (spaceCount - 1) // 2
                 spaceCount = 0
+                if count > n:
+                    return(True)
             else:
                 spaceCount += 1
             print(i, spaceCount, count, flowerbed[i])
