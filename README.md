@@ -23,6 +23,7 @@ My LeetCode submissions
 | [0303-range-sum-query-immutable](https://github.com/biswajitind/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0463-island-perimeter](https://github.com/biswajitind/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/biswajitind/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/biswajitind/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/biswajitind/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/biswajitind/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/biswajitind/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -128,6 +129,7 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/biswajitind/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0605-can-place-flowers](https://github.com/biswajitind/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
