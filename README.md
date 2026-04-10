@@ -22,6 +22,7 @@ My LeetCode submissions
 | [0283-move-zeroes](https://github.com/biswajitind/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/biswajitind/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
 | [0463-island-perimeter](https://github.com/biswajitind/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/biswajitind/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/biswajitind/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
@@ -114,6 +115,7 @@ My LeetCode submissions
 | ------- | ------- |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/biswajitind/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -211,6 +213,7 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/biswajitind/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,4 +228,12 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0761-special-binary-string](https://github.com/biswajitind/LeetCode/tree/main/0761-special-binary-string/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
 <!---LeetCode Topics End-->
