@@ -32,6 +32,7 @@ My LeetCode submissions
 | [1470-shuffle-the-array](https://github.com/biswajitind/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/biswajitind/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/biswajitind/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/biswajitind/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ My LeetCode submissions
 | ------- | ------- |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/biswajitind/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
