@@ -44,6 +44,7 @@ My LeetCode submissions
 | [0141-linked-list-cycle](https://github.com/biswajitind/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/biswajitind/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0359-logger-rate-limiter](https://github.com/biswajitind/LeetCode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/biswajitind/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -213,6 +214,7 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/biswajitind/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0359-logger-rate-limiter](https://github.com/biswajitind/LeetCode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -235,5 +237,6 @@ My LeetCode submissions
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0359-logger-rate-limiter](https://github.com/biswajitind/LeetCode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
 <!---LeetCode Topics End-->
