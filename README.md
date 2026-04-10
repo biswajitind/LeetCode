@@ -57,6 +57,7 @@ My LeetCode submissions
 | [0394-decode-string](https://github.com/biswajitind/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0482-license-key-formatting](https://github.com/biswajitind/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
+| [0761-special-binary-string](https://github.com/biswajitind/LeetCode/tree/main/0761-special-binary-string/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/biswajitind/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1328-break-a-palindrome](https://github.com/biswajitind/LeetCode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/biswajitind/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -89,6 +90,7 @@ My LeetCode submissions
 | [0088-merge-sorted-array](https://github.com/biswajitind/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/biswajitind/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0761-special-binary-string](https://github.com/biswajitind/LeetCode/tree/main/0761-special-binary-string/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/biswajitind/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -217,4 +219,8 @@ My LeetCode submissions
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/biswajitind/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/biswajitind/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0761-special-binary-string](https://github.com/biswajitind/LeetCode/tree/main/0761-special-binary-string/) | Hard |
 <!---LeetCode Topics End-->
