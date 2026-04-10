@@ -20,6 +20,7 @@ My LeetCode submissions
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/biswajitind/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/biswajitind/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0463-island-perimeter](https://github.com/biswajitind/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/biswajitind/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -78,6 +79,7 @@ My LeetCode submissions
 | [0141-linked-list-cycle](https://github.com/biswajitind/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/biswajitind/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/biswajitind/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/biswajitind/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/biswajitind/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
@@ -108,11 +110,13 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/biswajitind/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
