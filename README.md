@@ -57,6 +57,7 @@ My LeetCode submissions
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0482-license-key-formatting](https://github.com/biswajitind/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/biswajitind/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1328-break-a-palindrome](https://github.com/biswajitind/LeetCode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/biswajitind/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -136,6 +137,7 @@ My LeetCode submissions
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/biswajitind/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0605-can-place-flowers](https://github.com/biswajitind/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [1328-break-a-palindrome](https://github.com/biswajitind/LeetCode/tree/main/1328-break-a-palindrome/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
