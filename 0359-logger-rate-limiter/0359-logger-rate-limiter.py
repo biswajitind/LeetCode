@@ -4,7 +4,7 @@ class Logger:
         self.hMap = {}
 
     def shouldPrintMessage(self, timestamp: int, message: str) -> bool:
-        #print(self.hMap)
+        print(self.hMap)
     
         if message in self.hMap:
             mTime = self.hMap[message]
