@@ -30,6 +30,7 @@ My LeetCode submissions
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/biswajitind/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/biswajitind/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/biswajitind/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/biswajitind/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ My LeetCode submissions
 | [0042-trapping-rain-water](https://github.com/biswajitind/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0394-decode-string](https://github.com/biswajitind/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/biswajitind/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/biswajitind/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/biswajitind/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
