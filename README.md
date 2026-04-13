@@ -17,6 +17,7 @@ My LeetCode submissions
 | [0088-merge-sorted-array](https://github.com/biswajitind/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biswajitind/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/biswajitind/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/biswajitind/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/biswajitind/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -82,6 +83,7 @@ My LeetCode submissions
 | [0088-merge-sorted-array](https://github.com/biswajitind/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/biswajitind/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/biswajitind/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/biswajitind/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/biswajitind/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/biswajitind/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -114,6 +116,7 @@ My LeetCode submissions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/biswajitind/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
