@@ -26,7 +26,7 @@ class Solution:
             return(False)
 
         _traverse(root2, rSet)
-        print(rSet)
+
         if _dfs(root1, rSet):
             return(True)
         return False
