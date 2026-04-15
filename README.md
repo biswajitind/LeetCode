@@ -73,6 +73,7 @@ My LeetCode submissions
 | [0042-trapping-rain-water](https://github.com/biswajitind/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0394-decode-string](https://github.com/biswajitind/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/biswajitind/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ My LeetCode submissions
 | [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/biswajitind/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1099-two-sum-less-than-k](https://github.com/biswajitind/LeetCode/tree/main/1099-two-sum-less-than-k/) | Easy |
+| [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/biswajitind/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@ My LeetCode submissions
 | [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/biswajitind/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1099-two-sum-less-than-k](https://github.com/biswajitind/LeetCode/tree/main/1099-two-sum-less-than-k/) | Easy |
+| [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +187,7 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,10 +197,12 @@ My LeetCode submissions
 | [0207-course-schedule](https://github.com/biswajitind/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/biswajitind/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/biswajitind/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,4 +252,8 @@ My LeetCode submissions
 | ------- | ------- |
 | [0359-logger-rate-limiter](https://github.com/biswajitind/LeetCode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 <!---LeetCode Topics End-->
