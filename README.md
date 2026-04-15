@@ -115,6 +115,7 @@ My LeetCode submissions
 | ------- | ------- |
 | [0066-plus-one](https://github.com/biswajitind/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/biswajitind/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/biswajitind/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/biswajitind/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -133,6 +134,7 @@ My LeetCode submissions
 | ------- | ------- |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/biswajitind/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/biswajitind/LeetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
