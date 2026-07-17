@@ -8,25 +8,29 @@ class Solution:
     def twoSumBSTs(self, root1: Optional[TreeNode], root2: Optional[TreeNode], target: int) -> bool:
         rSet = set()
 
-        def _traverse(node, data):
-            if node != None:
+        # Add the values to a set ( from root1)
+        def _populate_set(node, data):
+            if node:
                 data.add(node.val)
-                _traverse(node.left, data)
-                _traverse(node.right, data)
+                _populate_set(node.left, data)
+                _populate_set(node.right, data)
+
+        def _dfs(node):
+            
+            if node:
+                #print(rSet, node.val)
+                if (target - node.val) in rSet:
+                    return(True)
+                if (_dfs(node.left)):
+                    return(True)
+                if (_dfs(node.right)):
+                    return(True)
             return(False)
+
         
-        def _dfs(node, data):
-            if node != None:
-                if target - node.val in data:
-                    return(True)
-                if _dfs(node.left, data):
-                    return(True)
-                if _dfs(node.right, data):
-                    return(True)
-            return(False)
-
-        _traverse(root2, rSet)
-
-        if _dfs(root1, rSet):
+        _populate_set(root1, rSet)
+        print(rSet)
+        if _dfs(root2):
             return(True)
-        return False
+
+        return(False)
