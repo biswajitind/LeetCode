@@ -4,6 +4,12 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+    def _print(self, node):
+        while node:
+            print(node.val, " ", end="")
+            node = node.next
+        print("")
+
     def _reverse(self, node):
         head  = node
         nxtNode = node.next
