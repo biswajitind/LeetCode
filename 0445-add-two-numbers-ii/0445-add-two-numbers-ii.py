@@ -4,12 +4,6 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def _print(self, node):
-        while node:
-            print(node.val, " ", end="")
-            node = node.next
-        print("")
-
     def _reverse(self, node):
         head  = node
         nxtNode = node.next
@@ -24,10 +18,7 @@ class Solution:
         return(head)
 
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        # self._print(l1)
-        # self._print(self._reverse(l1))
-        # self._print(l2)
-        # self._print(self._reverse(l2))
+
         l1 = self._reverse(l1)
         l2 = self._reverse(l2)
         carry = 0
