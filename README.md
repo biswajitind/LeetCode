@@ -115,6 +115,7 @@ My LeetCode submissions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/biswajitind/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/biswajitind/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/biswajitind/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -146,6 +147,7 @@ My LeetCode submissions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/biswajitind/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/biswajitind/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/biswajitind/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0394-decode-string](https://github.com/biswajitind/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -187,6 +189,7 @@ My LeetCode submissions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/biswajitind/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/biswajitind/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0141-linked-list-cycle](https://github.com/biswajitind/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Tree
