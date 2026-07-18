@@ -75,6 +75,7 @@ My LeetCode submissions
 | [0042-trapping-rain-water](https://github.com/biswajitind/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0394-decode-string](https://github.com/biswajitind/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/biswajitind/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/biswajitind/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Two Pointers
@@ -120,6 +121,7 @@ My LeetCode submissions
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/biswajitind/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/biswajitind/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/biswajitind/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/biswajitind/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Binary Search
@@ -192,6 +194,7 @@ My LeetCode submissions
 | [0002-add-two-numbers](https://github.com/biswajitind/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/biswajitind/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0141-linked-list-cycle](https://github.com/biswajitind/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/biswajitind/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
