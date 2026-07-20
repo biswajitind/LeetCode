@@ -8,6 +8,7 @@ My LeetCode submissions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/biswajitind/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/biswajitind/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0039-combination-sum](https://github.com/biswajitind/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/biswajitind/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/biswajitind/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/biswajitind/LeetCode/tree/main/0051-n-queens/) | Hard |
@@ -228,6 +229,7 @@ My LeetCode submissions
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/biswajitind/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/biswajitind/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/biswajitind/LeetCode/tree/main/0079-word-search/) | Medium |
 ## Union-Find
