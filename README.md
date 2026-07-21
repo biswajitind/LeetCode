@@ -176,6 +176,7 @@ My LeetCode submissions
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/biswajitind/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/biswajitind/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/biswajitind/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -203,12 +204,14 @@ My LeetCode submissions
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/biswajitind/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/biswajitind/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0112-path-sum](https://github.com/biswajitind/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/biswajitind/LeetCode/tree/main/0207-course-schedule/) | Medium |
@@ -218,6 +221,7 @@ My LeetCode submissions
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/biswajitind/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/biswajitind/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 ## Database
