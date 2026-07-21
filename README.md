@@ -21,6 +21,7 @@ My LeetCode submissions
 | [0128-longest-consecutive-sequence](https://github.com/biswajitind/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/biswajitind/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0216-combination-sum-iii](https://github.com/biswajitind/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/biswajitind/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -234,6 +235,7 @@ My LeetCode submissions
 | [0040-combination-sum-ii](https://github.com/biswajitind/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/biswajitind/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/biswajitind/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0216-combination-sum-iii](https://github.com/biswajitind/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
