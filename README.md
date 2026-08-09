@@ -159,6 +159,7 @@ My LeetCode submissions
 | [0002-add-two-numbers](https://github.com/biswajitind/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/biswajitind/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/biswajitind/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/biswajitind/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/biswajitind/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/biswajitind/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -202,6 +203,7 @@ My LeetCode submissions
 | [0002-add-two-numbers](https://github.com/biswajitind/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/biswajitind/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0141-linked-list-cycle](https://github.com/biswajitind/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/biswajitind/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/biswajitind/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
