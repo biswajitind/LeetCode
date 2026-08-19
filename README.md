@@ -183,6 +183,7 @@ My LeetCode submissions
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/biswajitind/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/biswajitind/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0261-graph-valid-tree](https://github.com/biswajitind/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/biswajitind/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0994-rotting-oranges](https://github.com/biswajitind/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
@@ -222,6 +223,7 @@ My LeetCode submissions
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/biswajitind/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/biswajitind/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0261-graph-valid-tree](https://github.com/biswajitind/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/biswajitind/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 ## Binary Tree
@@ -255,6 +257,7 @@ My LeetCode submissions
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/biswajitind/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0261-graph-valid-tree](https://github.com/biswajitind/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +270,7 @@ My LeetCode submissions
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/biswajitind/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/biswajitind/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0261-graph-valid-tree](https://github.com/biswajitind/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
