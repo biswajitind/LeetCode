@@ -185,6 +185,7 @@ My LeetCode submissions
 | [0210-course-schedule-ii](https://github.com/biswajitind/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0261-graph-valid-tree](https://github.com/biswajitind/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/biswajitind/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/biswajitind/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/biswajitind/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -225,6 +226,7 @@ My LeetCode submissions
 | [0210-course-schedule-ii](https://github.com/biswajitind/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0261-graph-valid-tree](https://github.com/biswajitind/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/biswajitind/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/biswajitind/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1214-two-sum-bsts](https://github.com/biswajitind/LeetCode/tree/main/1214-two-sum-bsts/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -258,6 +260,7 @@ My LeetCode submissions
 | [0128-longest-consecutive-sequence](https://github.com/biswajitind/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0261-graph-valid-tree](https://github.com/biswajitind/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/biswajitind/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +274,7 @@ My LeetCode submissions
 | [0207-course-schedule](https://github.com/biswajitind/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/biswajitind/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0261-graph-valid-tree](https://github.com/biswajitind/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/biswajitind/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,4 +301,12 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/biswajitind/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/biswajitind/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/biswajitind/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
