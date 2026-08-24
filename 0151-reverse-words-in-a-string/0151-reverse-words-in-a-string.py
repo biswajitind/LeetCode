@@ -1,22 +1,18 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        word = ""
-        result = ""
-
-        for ch in s:
-            if ch == " ":
+        # Iterate over the string from end to the beginning.
+        # collect the words in a list
+        words = []
+        word = ''
+        for i in range(len(s) -1, -1, -1):
+            if s[i] == ' ':
                 if word:
-                    if result:
-                        result = word + " " + result
-                    else:
-                        result = word
-                    word = ""
+                    words.append(word)
+                    word = ''
             else:
-                word += ch
-        if word:
-            if result:
-                result = word + " " + result
-            else:
-                result = word
+                word = s[i] + word
         
-        return(result)
+        if word:
+            words.append(word)
+
+        return(' '.join(words))
