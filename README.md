@@ -23,6 +23,7 @@ My LeetCode submissions
 | [0128-longest-consecutive-sequence](https://github.com/biswajitind/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/biswajitind/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/biswajitind/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0170-two-sum-iii-data-structure-design](https://github.com/biswajitind/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/biswajitind/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -53,6 +54,7 @@ My LeetCode submissions
 | [0041-first-missing-positive](https://github.com/biswajitind/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/biswajitind/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/biswajitind/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0170-two-sum-iii-data-structure-design](https://github.com/biswajitind/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/biswajitind/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/biswajitind/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -101,6 +103,7 @@ My LeetCode submissions
 | [0141-linked-list-cycle](https://github.com/biswajitind/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/biswajitind/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/biswajitind/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0170-two-sum-iii-data-structure-design](https://github.com/biswajitind/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/biswajitind/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/biswajitind/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -283,6 +286,7 @@ My LeetCode submissions
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/biswajitind/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/biswajitind/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/biswajitind/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0359-logger-rate-limiter](https://github.com/biswajitind/LeetCode/tree/main/0359-logger-rate-limiter/) | Easy |
@@ -310,6 +314,7 @@ My LeetCode submissions
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/biswajitind/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0359-logger-rate-limiter](https://github.com/biswajitind/LeetCode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
 ## Binary Search Tree
