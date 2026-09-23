@@ -38,6 +38,7 @@ My LeetCode submissions
 | [0605-can-place-flowers](https://github.com/biswajitind/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/biswajitind/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/biswajitind/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1051-height-checker](https://github.com/biswajitind/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1099-two-sum-less-than-k](https://github.com/biswajitind/LeetCode/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/biswajitind/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/biswajitind/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -122,6 +123,7 @@ My LeetCode submissions
 | [0252-meeting-rooms](https://github.com/biswajitind/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0761-special-binary-string](https://github.com/biswajitind/LeetCode/tree/main/0761-special-binary-string/) | Hard |
+| [1051-height-checker](https://github.com/biswajitind/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1099-two-sum-less-than-k](https://github.com/biswajitind/LeetCode/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/biswajitind/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Dynamic Programming
@@ -351,4 +353,12 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0252-meeting-rooms](https://github.com/biswajitind/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/biswajitind/LeetCode/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/biswajitind/LeetCode/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
