@@ -26,6 +26,7 @@ My LeetCode submissions
 | [0170-two-sum-iii-data-structure-design](https://github.com/biswajitind/LeetCode/tree/main/0170-two-sum-iii-data-structure-design/) | Easy |
 | [0200-number-of-islands](https://github.com/biswajitind/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/biswajitind/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0252-meeting-rooms](https://github.com/biswajitind/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/biswajitind/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -118,6 +119,7 @@ My LeetCode submissions
 | [0075-sort-colors](https://github.com/biswajitind/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/biswajitind/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/biswajitind/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0252-meeting-rooms](https://github.com/biswajitind/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0761-special-binary-string](https://github.com/biswajitind/LeetCode/tree/main/0761-special-binary-string/) | Hard |
 | [1099-two-sum-less-than-k](https://github.com/biswajitind/LeetCode/tree/main/1099-two-sum-less-than-k/) | Easy |
@@ -345,4 +347,8 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/biswajitind/LeetCode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0252-meeting-rooms](https://github.com/biswajitind/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 <!---LeetCode Topics End-->
