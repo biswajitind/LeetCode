@@ -71,6 +71,7 @@ My LeetCode submissions
 | [0012-integer-to-roman](https://github.com/biswajitind/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/biswajitind/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/biswajitind/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0044-wildcard-matching](https://github.com/biswajitind/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0079-word-search](https://github.com/biswajitind/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/biswajitind/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/biswajitind/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -132,6 +133,7 @@ My LeetCode submissions
 | [0005-longest-palindromic-substring](https://github.com/biswajitind/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/biswajitind/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/biswajitind/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/biswajitind/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biswajitind/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/biswajitind/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/biswajitind/LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
@@ -178,6 +180,7 @@ My LeetCode submissions
 | [0002-add-two-numbers](https://github.com/biswajitind/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/biswajitind/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/biswajitind/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0044-wildcard-matching](https://github.com/biswajitind/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/biswajitind/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/biswajitind/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/biswajitind/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -194,6 +197,7 @@ My LeetCode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/biswajitind/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/biswajitind/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/biswajitind/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/biswajitind/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0605-can-place-flowers](https://github.com/biswajitind/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
