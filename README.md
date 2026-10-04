@@ -134,6 +134,7 @@ My LeetCode submissions
 | [0010-regular-expression-matching](https://github.com/biswajitind/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/biswajitind/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/biswajitind/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0070-climbing-stairs](https://github.com/biswajitind/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/biswajitind/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/biswajitind/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0377-combination-sum-iv](https://github.com/biswajitind/LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
@@ -145,6 +146,7 @@ My LeetCode submissions
 | [0012-integer-to-roman](https://github.com/biswajitind/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/biswajitind/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/biswajitind/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/biswajitind/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/biswajitind/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/biswajitind/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -188,6 +190,7 @@ My LeetCode submissions
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/biswajitind/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/biswajitind/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
