@@ -1,12 +1,8 @@
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
-
-        # Edge case
-        l = 0 
-        r = len(nums) - 1
-
+    def search(self, nums: list[int], target: int) -> int:
+        l, r = 0, len(nums) - 1
         while l <= r:
-            m = (l + r) // 2
+            m = ( l + r ) // 2 
             if nums[m] == target:
                 return(m)
             elif nums[m] < target:
@@ -14,6 +10,4 @@ class Solution:
             else:
                 r = m - 1
         return(-1)
-
-
 
