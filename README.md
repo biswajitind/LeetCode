@@ -37,6 +37,7 @@ My LeetCode submissions
 | [0463-island-perimeter](https://github.com/biswajitind/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/biswajitind/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/biswajitind/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [0704-binary-search](https://github.com/biswajitind/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/biswajitind/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/biswajitind/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1051-height-checker](https://github.com/biswajitind/LeetCode/tree/main/1051-height-checker/) | Easy |
@@ -167,6 +168,7 @@ My LeetCode submissions
 | [0268-missing-number](https://github.com/biswajitind/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/biswajitind/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0362-design-hit-counter](https://github.com/biswajitind/LeetCode/tree/main/0362-design-hit-counter/) | Medium |
+| [0704-binary-search](https://github.com/biswajitind/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/biswajitind/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/biswajitind/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1099-two-sum-less-than-k](https://github.com/biswajitind/LeetCode/tree/main/1099-two-sum-less-than-k/) | Easy |
